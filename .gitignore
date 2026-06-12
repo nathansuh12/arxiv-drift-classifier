@@ -1,0 +1,19 @@
+# data + models (large, regenerable)
+data/
+models/
+*.ndjson
+drift_report.html
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# secrets
+*-key.json
+service-account*.json
+.env
+
+# os
+.DS_Store

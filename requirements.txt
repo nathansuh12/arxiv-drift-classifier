@@ -1,0 +1,7 @@
+# TFDV is version-sensitive; install it first and let it pull compatible tensorflow/beam.
+tensorflow-data-validation
+tensorflow
+google-cloud-bigquery
+google-cloud-aiplatform
+db-dtypes
+pandas
